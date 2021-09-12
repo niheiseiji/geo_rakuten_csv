@@ -6,5 +6,5 @@
 ３．取得したホテル一覧をCSVで出力する  
 
 ## 使用例
-geo_rakuten_csv> python .\geo_travel_csv.py 東京駅 2 #東京駅から2km以内の宿を検索  
+geo_rakuten_csv> `python .\geo_travel_csv.py 東京駅 2` #東京駅から2km以内の宿を検索  
 出力されるCSVのサンプルはhotel.csvを参照
